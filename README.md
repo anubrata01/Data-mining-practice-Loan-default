@@ -1,18 +1,18 @@
 # Data-mining-practice-Loan-default
 <h1>Loan Default Dataset Analysis</h1>
 
-Overview
-
+<h3>Overview</h3>
+<p>
 Welcome to my first data mining project! In this project, I explore a loan default dataset sourced from Kaggle to extract meaningful insights. As I am in the learning phase of data mining and analytics, this project serves as a foundational step in honing my skills and understanding of data preprocessing, exploration, and analysis techniques.
-
-Objectives
-
+</p>
+<h3>Objectives</h3>
+<p>
 Understand and preprocess the dataset.
 
 Perform exploratory data analysis (EDA) to uncover trends and patterns.
 
 Derive insights into factors that influence loan defaults.
-
+</p>
 Dataset
 
 The dataset used for this project is publicly available on Kaggle. It contains information about loans, borrowers, and repayment statuses. Detailed information about the dataset can be found on the Kaggle Dataset Page.
